@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /Levet_Parallel_GpI.pdf
